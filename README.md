@@ -19,7 +19,7 @@ const cris = {
 
 <p align="center" >
 <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=Kipros21&&show_icons=true&theme=merko"/>
+    <img  src="https://github-readme-stats.vercel.app/api?username=Kipros21&&show_icons=true&theme=gruvbox"/>
   </a>
 
 </p>
