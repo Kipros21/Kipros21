@@ -19,11 +19,13 @@ Render, SQLite, Tableu, Power BI, Git]
 }
 ```
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kipros21&&show_icons=true&theme=gruvbox"/>
-  </a>
-  <div>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kipros21&theme=gruvbox&hide_border=false" height="153" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kipros21&theme=gruvbox&hide_border=true" height="153" />
-  </div>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kipros21&&show_icons=true&theme=buefy" height="200"/>
+</a>
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kipros21&theme=buefy&hide_border=false" height="200" />
+
+
 </div>
