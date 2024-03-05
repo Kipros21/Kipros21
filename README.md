@@ -16,3 +16,10 @@ const cris = {
 ```
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<p align="center" >
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=Kipros21&&show_icons=true&theme=merko"/>
+  </a>
+
+</p>
