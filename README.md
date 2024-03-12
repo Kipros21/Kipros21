@@ -15,7 +15,7 @@ const cris = {
   tools: [Django, MySQL, SQLServer, Apache Hadoop,
 Apache Hive, Apache Spark, Docker, Pandas, Numpy,
 Matplotlib, Seaborn, Scikitlearn, FastAPI, Railway,
-Render, SQLite, Tableu, Power BI, Git]
+Render, SQLite, Tableau, PowerBI, Git]
 }
 ```
 <div align="center">
