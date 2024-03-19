@@ -3,7 +3,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Un poco más sobre mi... 
 
 - 🚀: &nbsp; Entusiasta de la tecnología y el mundo de los datos. 
-- 🎓: &nbsp; Ingeniero Naval de profesión, actualmente estudiando Ingeniería de Datos.
+- 🎓: &nbsp; Ingeniero Naval y Data Scientist de profesión
 - 🌱: &nbsp; Me encuentro en continua formación y aprendiendo nuevas tecnologías.
   
 <img align='right' src="https://github.com/Kipros21/Kipros21/assets/142346448/d5c0fdfe-d873-461e-b321-e5a0f2a6e148" width="450">
