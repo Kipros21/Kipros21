@@ -33,11 +33,7 @@ Render, SQLite, Tableau, PowerBI, Git]
 
 | <!-- -->      | <!-- -->        |
 |:-------------:|:---------------:|
-| [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kipros21&repo=PI01-MLOPS-STEAMGAMES&theme=buefy)](https://github.com/Kipros21/PI01-MLOPS-STEAMGAMES)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kipros21&repo=PI02-DA-SINIESTROS-VIALES&theme=buefy)](https://github.com/Kipros21/PI02-DA-SINIESTROS-VIALES)|
-
-
-
-</div>
+|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kipros21&repo=PI01-MLOPS-STEAMGAMES&theme=buefy)](https://github.com/Kipros21/PI01-MLOPS-STEAMGAMES)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Kipros21&repo=PI02-DA-SINIESTROS-VIALES&theme=buefy)](https://github.com/Kipros21/PI02-DA-SINIESTROS-VIALES)
 
 <div align="right">
     <img src="https://komarev.com/ghpvc/?username=Kipros21&style=for-the-badge&color=55acb7&label=VISITANTES" style="color: #000000;"/>
